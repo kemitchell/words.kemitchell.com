@@ -1,0 +1,6 @@
+#!/bin/sh
+SITE=words.kemitchell.com
+set -e
+make clean
+make
+rsync -4 -a --delete site/ "$SITE:/var/www/$SITE/"
