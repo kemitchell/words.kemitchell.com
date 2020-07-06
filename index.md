@@ -1,6 +1,6 @@
 # Words and Phrases
 
-- [covid19](./covid19)
+- [covid-19](./covid-19)
 - [craft](./craft)
 - [domain suffixes](./domain-suffixes)
 - [police](./police)
