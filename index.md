@@ -1,4 +1,4 @@
-# Lists of Words
+# Words and Phrases
 
 - [covid19](./covid19)
 - [police](./police)
