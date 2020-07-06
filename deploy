@@ -3,4 +3,4 @@ SITE=words.kemitchell.com
 set -e
 make clean
 make
-rsync -4 -a --delete site/ "$SITE:/var/www/$SITE/"
+rsync -avz --delete site/ "$SITE:/var/www/$SITE/"
