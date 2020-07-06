@@ -1,0 +1,16 @@
+- Apprentice
+- Artificer
+- Artisan
+- Artisanal
+- Craft
+- Fabricator
+- Fabrile
+- Guildsman
+- Journeyman
+- Maker's Mark
+- Master
+- Proof Mark
+- Smith (e.g. Blacksmith)
+- Trade
+- Worker (e.g. Ironworker)
+- Wright (e.g. Wheelwright)
