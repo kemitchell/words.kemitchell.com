@@ -1,6 +1,7 @@
 - Acute Respiratory Distress Syndrome
 - Basic Reproduction Number (R<sub>0</sub>)
 - Case Fatality Rate
+- Cluster Busting
 - Community Spread
 - Coronavirus
 - Droplet Spread
