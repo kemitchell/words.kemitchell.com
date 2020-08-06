@@ -1,0 +1,14 @@
+- Bondage
+- Discrimination
+- Domination
+- Exploitation
+- Injustice
+- Oppression
+- Persecution
+- Repression
+- Serfdom
+- Slavery
+- Subjugation
+- Subordination
+- Suppression
+- Tyranny
