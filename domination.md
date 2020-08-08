@@ -1,3 +1,4 @@
+- Appropriation
 - Bondage
 - Discrimination
 - Domination
