@@ -3,6 +3,7 @@
 - [covid-19](./covid-19)
 - [craft](./craft)
 - [domain suffixes](./domain-suffixes)
+- [domination](./domination)
 - [police](./police)
 - [slogans](./slogans)
 
