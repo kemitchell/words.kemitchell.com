@@ -1,5 +1,7 @@
 - Acute Respiratory Distress Syndrome
+- Antibodies
 - Basic Reproduction Number (R<sub>0</sub>)
+- Bubble
 - Case Fatality Rate
 - Cluster Busting
 - Community Spread
@@ -11,11 +13,14 @@
 - Herd Immunity
 - Intubation
 - KN95
+- Mask
 - N95
 - Quarantine
+- Respirator
 - Second Wave
 - Self-Isolation
 - Shelter in Place
 - Social Distancing
+- Surgical Mask
 - Track and Trace
 - Ventilator
