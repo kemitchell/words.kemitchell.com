@@ -1,4 +1,4 @@
-# Domination
+# Domination Words and Phrases
 - Appropriation
 - Bondage
 - Discrimination

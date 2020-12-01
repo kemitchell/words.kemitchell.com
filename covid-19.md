@@ -1,4 +1,4 @@
-# COVID-10
+# COVID-10 Words and Phrases
 - Acute Respiratory Distress Syndrome
 - Antibodies
 - Basic Reproduction Number (R<sub>0</sub>)

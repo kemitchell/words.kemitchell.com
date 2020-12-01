@@ -1,4 +1,4 @@
-# Craft
+# Craft Words and Phrases
 - Apprentice
 - Artificer
 - Artisan
