@@ -14,6 +14,7 @@
 - Intubation
 - KN95
 - Mask
+- Misery, Morbidity, Mortality
 - N95
 - Quarantine
 - Respirator
