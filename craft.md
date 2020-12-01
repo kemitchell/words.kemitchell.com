@@ -1,3 +1,4 @@
+# Craft
 - Apprentice
 - Artificer
 - Artisan
