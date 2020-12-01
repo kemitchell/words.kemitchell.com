@@ -13,6 +13,7 @@
 - Herd Immunity
 - Intubation
 - KN95
+- Lockdown
 - Mask
 - Misery, Morbidity, Mortality
 - N95
